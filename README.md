@@ -6,8 +6,8 @@
 Pola sintaksis didefinisikan menggunakan pendekatan *Backus-Naur Form* (BNF) sederhana:
 ```text
 
-Nama    : Alfina Dwi Aryani
-Nim     : 231011400110
+Nama    : Maria Fransiska Lamapaha
+Nim     : 231011400102
 Kelas   : 06TPLE003
 
 <while_stmt> ::= "while" "(" <condition> ")" "{" <statements> "}"
